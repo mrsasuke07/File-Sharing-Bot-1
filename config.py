@@ -5,17 +5,17 @@ from logging.handlers import RotatingFileHandler
 
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7744546286:AAFUVZecGLc2b1cC6nFY3B87B3BPH4gbOLM")
-API_ID = int(os.environ.get("API_ID", "21585095"))
-API_HASH = os.environ.get("API_HASH", "405e9457d89e2def3c77640b1f9ec913")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7718608670:AAF3BjoS_hOrV2gbHNB3mt70YA9yic-eTmA")
+API_ID = int(os.environ.get("API_ID", "22802977"))
+API_HASH = os.environ.get("API_HASH", "32e1f0a923912d4528bb3273b89de50f")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "6971954079"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6860249430"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://nshubh345:1FmseyW0TKaWNMNo@cluster0.pgewb.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "filesharexbot")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002394197305"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002455470716"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 
 
